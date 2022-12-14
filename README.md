@@ -9,5 +9,5 @@ I'm studying _full stack developing_ on Python🎓
 [Email](yulya.martinova94@gmail.com)
 
 ⚡ **Fun facts:**
-<ul> &ensp;🎵  Queen B fan 🎵</ul>
-<ul>&ensp;🐾 My dachshund fan 🐾</ul>
+<ul> &ensp;🎵  Queen B fan </ul>
+<ul>&ensp;🐾 My dachshund fan </ul>
