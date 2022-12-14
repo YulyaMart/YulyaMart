@@ -1,4 +1,4 @@
-# Hi there 👋, I'm **Yulya**
+# Hi there, I'm Yulya👋
 
 I'm studying _full stack developing_ on Python🎓
 
